@@ -24,11 +24,8 @@
 //
 //2 6 14 30 62 126 254 510 1022 2046
 //8 14 26 50 98
-
-
 package HackerRank;
 import java.util.*;
-
 
 public class Loop_Problem_2 {
     public static void main(String[] args) {

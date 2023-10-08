@@ -16,5 +16,6 @@ public class Problem1 {
         System.out.println(c);
         // Complete this line
         // Complete this line
+        
     }
 }
